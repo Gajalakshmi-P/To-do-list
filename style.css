@@ -1,4 +1,6 @@
-
+body {
+    background-color: lavender !important;
+}
 /* General styling */
 * {
     margin: 0;
